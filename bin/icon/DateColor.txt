@@ -1,0 +1,8 @@
+color icono
+#FF8785BD
+
+color base
+#43425D
+
+cambio boton
+#686690
