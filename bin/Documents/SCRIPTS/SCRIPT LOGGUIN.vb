@@ -597,3 +597,7 @@ End Sub
 'Public Sub ValidacionDuplicidadAnt(ByVal dato As String)
 ''DUPLICICDAD FRENTE AL MISMO CARGUE
 'End Sub
+
+
+    'COPIA EL ARCHIVO
+    FileCopy NomRuta, FunctionValidCarpetaBin("OriginalDB") & FunctionNomArchivo(NomRuta)
